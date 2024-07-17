@@ -1,0 +1,4 @@
+C:\Users\Noman\source\repos\CCProject\Debug\CCProject.vcxprojAssemblyReference.cache
+C:\Users\Noman\source\repos\CCProject\Debug\CCProject.exe
+C:\Users\Noman\source\repos\CCProject\Debug\CCProject.MyForm.resources
+C:\Users\Noman\source\repos\CCProject\Debug\CCProject.vcxproj.GenerateResource.cache
